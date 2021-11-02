@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/RwKAHYZ.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://www.linkpicture.com/q/ds_3.jpg" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Nandhutty_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="KriZ SeR_v2" src="https://img.shields.io/badge/Nandhutty_v2-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/Ajmal-Achu"><img title="Author" src="https://img.shields.io/badge/Author-Ajmal-Achu/Nandhutty_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to make it public
+Project created by <a href="https://github.com/KANNANSIR">KriZ SeR</a> to make it public
     <br>
        | © |
         Reserved |
@@ -32,8 +32,8 @@ Project created by <a href="https://github.com/Ajmal-Achu">Ajmal-Achu</a> to mak
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/KANNANSIR/KriZ SeR_v2
+$ cd KriZ SeR_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/Ajmal-Achu/Nandhutty_v2
-$ cd Nandhutty_v2
+$ git clone https://github.com/KANNANSIR/KriZ SeR_v2
+$ cd KriZ SeR_v2
 $ npm i
 $ node julie.js
 ```
@@ -50,7 +50,7 @@ $ node julie.js
 ----
 
   <p align="center">
-  <a href="httsp://github.com/farhan-dqz/JulieMwol">
+  <a href="httsp://github.com/farhan-dqz/KriZ SeR">
     
 <a href="https://github.com/farhan-dqz/followers">
 <img src="https://img.shields.io/github/repo-size/farhan-dqz/Julie-Mwol?color=green&label=Repo%20total%20size&style=plastic">
