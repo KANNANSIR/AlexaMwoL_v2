@@ -32,8 +32,8 @@ Project created by <a href="https://github.com/KANNANSIR">AlexaMwol_v2</a> to ma
 GET QR
 $ apt install git
 $ apt install nodejs --fix-missing
-$ git clone https://github.com/KANNANSIR/KriZ SeR_v2
-$ cd KriZ SeR_v2
+$ git clone https://github.com/KANNANSIR/AlexaMwoL_v2
+$ cd AlexaMwoL_v2
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node julie.js
@@ -41,8 +41,8 @@ $ node julie.js
       
 ```js
 SETUP
-$ git clone https://github.com/KANNANSIR/KriZ SeR_v2
-$ cd KriZ SeR_v2
+$ git clone https://github.com/KANNANSIR/AlexaMwoL_v2
+$ cd AlexaMwoL_v2
 $ npm i
 $ node julie.js
 ```
