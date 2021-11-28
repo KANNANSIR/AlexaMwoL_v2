@@ -32,7 +32,7 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
        
        const button = {
         buttonText: '𝗖𝗟𝗜𝗖𝗞 𝗛𝗘𝗥𝗘',
-        description: "ꪶ 𝑲𝑹𝑰𝒁⇥𝑺𝑬𝑹ꫂ⁩🔰",
+        description: "ꪶ𝑨𝑳𝑬𝑿𝑨⇥𝑴𝑾𝑶𝑳ꫂ⁩🔰",
         sections: sections,
         listType: 1
        }
